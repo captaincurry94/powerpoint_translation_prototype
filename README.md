@@ -7,6 +7,13 @@ For my last employer, we wanted to be able to translate PowerPoint files in an a
 ## Important:
 When using this code, you will have to create your own file for "GOOGLE_API_KEY.json". For obvious reasons, I will not share my private key to the Google API on Github.
 
+## Example:
+
+<img src="original.png" width="250" title="hover text">
+The first powerpoint slide automatically gets translated into the predefined language while keeping the style of the presentation
+<img src="translation.png" width="250" alt="accessibility text">
+
+
 ## Future Work:
 - Create user interface and upload functionality with Flask
 - seperate the steps of creating excel file with original text, translation and pushing translation into original powerpoint template
