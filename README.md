@@ -10,7 +10,7 @@ When using this code, you will have to create your own file for "GOOGLE_API_KEY.
 ## Example:
 
 <img src="original.png" width="250" title="hover text">
-The first powerpoint slide automatically gets translated into the predefined language while keeping the style of the presentation
+The powerpoint slide automatically gets translated into the predefined language while keeping the style of the presentation
 <img src="translation.png" width="250" alt="accessibility text">
 
 
