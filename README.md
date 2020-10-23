@@ -1,0 +1,2 @@
+# powerpoint_translation_prototype
+Translate text elements in powerpoint files using the google translation api. This is just a rudimentary prototype to explore the possibilities of the pypptx and google translate packages. It pulls all text elements from your powerpoint into an excel file, automatically translates it using the google api and then pushes the translations back into the original powerpoint template. In the future, I want to improve the code so that you can add manual translations to the excel file and then have the text pushed into the powerpoint template.
